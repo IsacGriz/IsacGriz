@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isac Grizante</h1>
 <h3 align="center">A fullstack developer</h3>
-- 🔭 I’m currently working on [Delivery Urbano](https://github.com/users/IsacGriz/projects/2) </ br>
-- 🌱 I’m currently learning <strong>JavaScript, TypeScript, React, Node.js, Express, Python and PostgreSQL</strong>
+<p>- 🔭 I’m currently working on [Delivery Urbano](https://github.com/users/IsacGriz/projects/2)</p>
+<p>- 🌱 I’m currently learning <strong>JavaScript, TypeScript, React, Node.js, Express, Python and PostgreSQL</strong></p>
 
 - 📫 How to reach me **skinnysz@duck.com**
 - ⚡ Fun fact **I love Lasagna**
