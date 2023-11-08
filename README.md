@@ -3,8 +3,8 @@
 <p>- 🔭 I’m currently working on [Delivery Urbano](https://github.com/users/IsacGriz/projects/2)</p>
 <p>- 🌱 I’m currently learning <strong>JavaScript, TypeScript, React, Node.js, Express, Python and PostgreSQL</strong></p>
 
-- 📫 How to reach me **skinnysz@duck.com**
-- ⚡ Fun fact **I love Lasagna**
+<p>- 📫 How to reach me **skinnysz@duck.com**</p>
+<p>- ⚡ Fun fact **I love Lasagna**</p>
 
 <div> <a href="https://www.linkedin.com/in/isacgrizante" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/IsacGriz" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
