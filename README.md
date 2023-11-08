@@ -4,7 +4,7 @@
 <p>- 🌱 I’m currently learning <strong>JavaScript, TypeScript, React, Node.js, Express, Python and PostgreSQL</strong></p>
 
 <p>- 📫 How to reach me <strong>skinnysz@duck.com</strong></p>
-<p>- ⚡ Fun fact <strong>I love Lasagna</strong>/p>
+<p>- ⚡ Fun fact <strong>I love Lasagna</strong></p>
 
 <div> <a href="https://www.linkedin.com/in/isacgrizante" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/IsacGriz" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
