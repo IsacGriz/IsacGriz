@@ -27,3 +27,4 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=IsacGriz&theme=dracula" alt="IsacGriz" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/IsacGriz)
